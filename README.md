@@ -4,23 +4,23 @@ A responsive portfolio homepage built with HTML and CSS, featuring a modern desi
 
 ## 🚀 Live Demo
 
-[View Live Site](https://basliel-sisay.github.io/Home-Page) 
+[View Live Site](https://basliel-sisay.github.io/Home-Page/) 
 
 ## ✨ Features
 
-- **📱 Responsive Design** - Optimized for desktop, tablet, and mobile devices
-- **🎨 Modern UI** - Clean and professional layout with smooth animations
-- **💼 Project Showcase** - Display your projects with live demo links
-- **📞 Contact Section** - Easy ways for visitors to get in touch
-- **⚡ Fast Loading** - Optimized for performance
-- **🎯 Semantic HTML** - Accessible and SEO-friendly markup
+- 📱 Responsive Design - Optimized for desktop, tablet, and mobile devices
+- 🎨 Modern UI - Clean and professional layout with smooth animations
+- 💼 Project Showcase - Display your projects with live demo links
+- 📞 Contact Section - Easy ways for visitors to get in touch
+- ⚡ Fast Loading - Optimized for performance
+- 🎯 Semantic HTML - Accessible and SEO-friendly markup
 
 ## 🛠️ Built With
 
-- **⚡ HTML5** - Semantic markup
-- **🎨 CSS3** - Modern styling with Flexbox and Grid
-- **📐 Media Queries** - Responsive design
-- **🎯 CSS Variables** - Consistent color scheme
+- ⚡ HTML5 - Semantic markup
+- 🎨 CSS3 - Modern styling with Flexbox and Grid
+- 📐 Media Queries - Responsive design
+- 🎯 CSS Variables - Consistent color scheme
 
 ## 📁 Project Structure
 <pre>
@@ -35,22 +35,22 @@ A responsive portfolio homepage built with HTML and CSS, featuring a modern desi
 
 ## 🎯 Sections
 <pre>
-- **🔝 Header - Navigation with smooth scrolling
-- **🌟 Hero - Introduction with profile image
-- **💼 Projects - Featured work with live demos
-- **👨‍💻 About - Skills and background information
-- **📞 Contact - Contact information and social links
-- **🔚 Footer - Copyright and additional links
+- 🔝 Header - Navigation with smooth scrolling
+- 🌟 Hero - Introduction with profile image
+- 💼 Projects - Featured work with live demos
+- 👨‍💻 About - Skills and background information
+- 📞 Contact - Contact information and social links
+- 🔚 Footer - Copyright and additional links
 </pre>
 ## <h2>🚦 Getting Started</h2>
 
 1. 📥 Clone the repository
    
-   git clone https://github.com/Basliel-Sisay/portfolio-homepage.git
+   git clone https://github.com/Basliel-Sisay/Home-Page.git
    
 2. 📂 Navigate to the project directory
    
-   cd portfolio-homepage
+   cd Home-Page
    
 3 .🌐 Open index.html in your browser
 
