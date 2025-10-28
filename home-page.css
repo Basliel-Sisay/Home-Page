@@ -254,4 +254,15 @@ main{
     background-color: rgb(52, 152, 219);
     transform: translateY(-2px);
 }
-
+footer{
+    background-color: rgb(44, 62, 80);
+    color: white;
+    text-align: center;
+    padding: 24px 32px;
+    margin-top: 0px;
+}
+footer p{
+    margin: 0px;
+    font-size: 14px;
+    opacity: 0.8;
+}
