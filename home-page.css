@@ -365,6 +365,58 @@ nav a{
     gap:12px;
 }
 footer{
-        padding: 16px;
+    padding: 16px;
 }
 }
+@media (max-width:1024px){
+header{
+    padding: 12px 24px;
+    gap:20px;
+}
+nav a{
+    margin-left: 15px;
+    padding:7px 14px;
+}
+#hero{
+    padding:60px 24px;
+}
+#hero h1{
+    font-size: 40px;
+}
+.hero-image{
+    margin-left: 0px;
+}
+#projects{
+    padding: 60px 24px;
+}
+#projects h2{
+    font-size: 32px;
+}
+.projectsForm{
+    grid-template-columns: 1fr 1fr;
+    gap:24px;
+}
+.projectCard{
+    padding: 20px;
+}
+#about{
+    padding: 60px 20px;
+}
+#about h2{
+    font-size: 32px;
+}
+#contact{
+    padding: 60px 24px;
+}
+.skills ul{
+    gap:16px;
+}
+.contact-content{
+    grid-template-columns: 1fr 1fr;
+}
+#contact h2{
+    font-size: 32px;
+    margin-right: 0px;
+}
+}
+
