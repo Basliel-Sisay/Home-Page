@@ -90,4 +90,91 @@ main{
     transform: translateY(-2px);
     box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.3);
 }
+#projects{
+    padding: 80px 32px;
+    background-color: white;
+}
+#projects h2{
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 48px;
+    color: rgb(44, 62, 80);
+}
+.projectsForm{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.projectCard{
+    background-color:white;
+    border-radius: 8px;
+    padding: 24px;
+    margin-bottom: 32px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgb(236, 240, 241);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.projectCard:hover{
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.15);
+}
+.live-preview-box{
+    display: block;
+    background: linear-gradient(135deg, rgb(52, 152, 219) 0%, rgb(41, 128, 185) 100%);
+    color: white;
+    padding: 40px 24px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+    transition: all 0.3s;
+}
+.live-preview-box:hover{
+    background: linear-gradient(135deg, rgb(41, 128, 185) 0%, rgb(32, 102, 148) 100%);
+    transform: scale(1.02);
+}
+.preview-content h4{
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+.preview-content p{
+    font-size: 18px;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+.preview-content span{
+    font-size: 14px;
+    opacity: 0.8;
+}
+.projectCard h3{
+    font-size: 24px;
+    margin-bottom: 16px;
+    color: rgb(44, 62, 80);
+}
+.projectCard p{
+    margin-bottom: 16px;
+    color: rgb(102, 102, 102);
+}
+.technologies{
+    background-color: rgb(236, 240, 241);
+    padding: 8px 16px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-bottom: 16px;
+    font-size: 14px;
+    color: rgb(52, 73, 94);
+    font-weight: bold;
+}
+.project-links a{
+    display: inline-block;
+    margin-right: 16px;
+    padding: 8px 20px;
+    background-color: rgb(52, 152, 219);
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+.project-links a:hover{
+    background-color: rgb(41, 128, 185);
+}
 
