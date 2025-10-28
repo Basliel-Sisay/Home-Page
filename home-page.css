@@ -111,6 +111,9 @@ nav a:hover{
     color: rgb(44, 62, 80);
 }
 .projectsForm{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px,1fr));
+    gap:32px;
     max-width: 1200px;
     margin: 0px auto;
 }
