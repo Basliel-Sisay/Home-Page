@@ -222,6 +222,9 @@ nav a:hover{
     color: rgb(44, 62, 80);
 }
 .skills ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap:12px;
     list-style-type: none;
 }
 .skills li{
