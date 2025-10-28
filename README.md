@@ -26,10 +26,10 @@ A responsive portfolio homepage built with HTML and CSS, featuring a modern desi
 <pre>
  portfolio-homepage/
 │
-├── 📄 index.html # Main HTML file
-├── 🎨 home-page.css # Stylesheet
-├── 🖼️ images/ # Project images and screenshots
-└── 📖 README.md # Project documentation
+├── 📄 index.html         Main HTML file
+├── 🎨 home-page.css      Stylesheet
+├── 📄 LICENSE            MIT LICENSE
+└── 📖 README.md          Project documentation
 </pre>
 
 
