@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: rgb(51, 51, 51);
+    background-color: rgb(248, 249, 250);
+    font-size: 16px;
+}
+header {
+    background-color: rgb(44, 62, 80);
+    color: rgb(255, 255, 255);
+    padding: 16px 32px;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
