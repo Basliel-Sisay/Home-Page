@@ -295,7 +295,7 @@ footer p{
     font-size: 14px;
     opacity: 0.8;
 }
-@media (max-width:768px){
+@media (max-width:500px){
 header{
     padding: 8px 16px;
     gap:20px;
@@ -340,6 +340,7 @@ nav a{
     padding: 16px;
 }
 .live-preview-box{
+    grid-template-columns: 1fr;
     padding: 30px 16px;
 }
 #about{
