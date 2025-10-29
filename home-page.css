@@ -369,7 +369,7 @@ footer{
     padding: 16px;
 }
 }
-@media (max-width:1024px){
+@media (max-width:768px){
 header{
     padding: 12px 24px;
     gap:20px;
@@ -385,7 +385,8 @@ nav a{
     font-size: 40px;
 }
 .hero-image{
-    margin-left: 0px;
+    margin-left: 200px;
+    align-self: center;
 }
 #projects{
     padding: 60px 24px;
